@@ -49,7 +49,7 @@ Puedes ejecutar distintas consultas accediendo a las siguientes rutas:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/actividad-laravel.git
+   git clone https://github.com/rodriguezac/actividad-laravel.git
 2. Accede al directorio del proyecto:
    ```bash
    cd actividad-laravel  
