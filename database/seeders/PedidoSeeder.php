@@ -20,4 +20,3 @@ class PedidoSeeder extends Seeder
         ]);
     }
 }
-?>

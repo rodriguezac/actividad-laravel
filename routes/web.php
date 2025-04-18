@@ -17,3 +17,5 @@ Route::get('/consulta6', [ConsultaController::class, 'pedidosOrdenados']);
 Route::get('/consulta7', [ConsultaController::class, 'sumaTotalPedidos']);
 Route::get('/consulta8', [ConsultaController::class, 'pedidoMasBarato']);
 Route::get('/consulta9', [ConsultaController::class, 'pedidosAgrupados']);
+Route::get('/consulta10', [ConsultaController::class, 'pedidosAgrupadosPorUsuario']);
+Route::get('/consulta1-eloquent', [ConsultaController::class, 'pedidosUsuario2Eloquent']);
